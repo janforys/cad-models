@@ -1,0 +1,1 @@
+translate([0,0,0.5])difference(){circle(d=24);circle(d=16);}
